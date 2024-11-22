@@ -1,0 +1,14 @@
+C:\WORK\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\WORK\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\WORK\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\WORK\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\WORK\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\WORK\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\WORK\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\WORK\LAB-1\L1-1\bin\Debug\ConsoleApp1.exe.config
+C:\WORK\LAB-1\L1-1\bin\Debug\ConsoleApp1.exe
+C:\WORK\LAB-1\L1-1\bin\Debug\ConsoleApp1.pdb
+C:\WORK\LAB-1\L1-1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\WORK\LAB-1\L1-1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\WORK\LAB-1\L1-1\obj\Debug\ConsoleApp1.exe
+C:\WORK\LAB-1\L1-1\obj\Debug\ConsoleApp1.pdb
